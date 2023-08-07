@@ -16,20 +16,3 @@ Each generation is a pure function of the preceding one. The rules continue to b
 Note:  The simultaneity means that when each cell counts the number of live neighbors around it, it uses its neighbors' old states before the update, not their new states after the update.
 
 
-Sources:
-Wikipedia - https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
-https://playgameoflife.com/info
-
-
-https://mathworld.wolfram.com/CellularAutomaton.html
-
-https://plato.stanford.edu/entries/cellular-automata/#fig1
-
-https://github.com/halimb/gol/blob/master/script.js#L206
-
-heatmap d3: https://observablehq.com/@observablehq/plot-simplified-calendar
-
-good explanation: https://www.theguardian.com/science/alexs-adventures-in-numberland/2014/dec/15/the-game-of-life-a-beginners-guide
-
-
-
