@@ -1,0 +1,5 @@
+/* theme.css */
+rect.cell {
+    stroke: gray;
+    stroke-width: 0.3px;
+}
