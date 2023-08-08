@@ -2,8 +2,9 @@
  #grid, #buttons {
      justify-content: center;
      display: flex;
-     overflow-x: auto;
+     overflow: auto;
 }
+
  rect.cell {
      stroke: gray;
      stroke-width: 0.3px;
